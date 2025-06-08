@@ -34,7 +34,7 @@
 
 ### 💻 Full-Stack Projects
 [![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=Notes-App&theme=radical)](https://github.com/mhamedrgb891/Notes-App)
-[![My Gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=My-Gallery&theme=radical)](https://github.com/mhamedrgb891/My-Gallery
+[![My Gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=My-Gallery&theme=radical)
 ---
 
 ## 🔧 Skills & Interests
