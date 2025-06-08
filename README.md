@@ -1,63 +1,117 @@
-# Mohamed Ragab - GitHub Profile README
+# 👋 Hello! I'm Mohamed Ragab 
+### Computer Science Student | AI & Full-Stack Developer
 
-Hello! I'm Mohamed Ragab, a Computer Science student passionate about software development and AI technologies. Here's my GitHub profile with widgets to showcase my work and contributions.
-
-## 📊 GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhamedrgb891&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
-
-## 🔝 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhamedrgb891&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mhamedrgb891&theme=juicyfresh&no-bg=true" />
-
-## 🔧 Featured Projects
-
-[![Smart Attendance](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=smart-attendance)](https://github.com/mhamedrgb891/smart-attendance)
-[![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=FaceRecognition)](https://github.com/mhamedrgb891/FaceRecognition)
-[![My Gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=My-Gallery)](https://github.com/mhamedrgb891/My-Gallery)
-[![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=Notes-App)](https://github.com/mhamedrgb891/Notes-App)
-
-## 📈 Activity Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mhamedrgb891&theme=react-dark&hide_border=true&area=true)
-
-## 🐍 Snake Eating My Contributions
-
-![Snake animation](https://github.com/mhamedrgb891/mhamedrgb891/blob/output/github-contribution-grid-snake.svg)
-
-## 🌐 Connect with Me
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/mohamed-ragab-681321364)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:m7mdrgb33@gmail.com)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">](https://wa.me/201151901418)
-
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=mhamedrgb891&color=blueviolet" alt="Profile Views" />
-
-## 📌 Pinned Repositories
-
-<div>
-  <a href="https://github.com/mhamedrgb891/smart-attendance">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=smart-attendance&theme=dark" />
-  </a>
-  <a href="https://github.com/mhamedrgb891/FaceRecognition">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=FaceRecognition&theme=dark" />
-  </a>
-</div>
-
-## 💻 Technologies & Tools
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-
-## 📚 Currently Learning
-
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?logo=scikitlearn&logoColor=white" alt="Machine Learning">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ragab-681321364)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m7mdrgb33@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201151901418)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/m7mdrgb33/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mhamedrgb891.github.io/)
 
 ---
 
-⭐ From [Mohamed Ragab](https://github.com/mhamedrgb891) | Computer Science Student | Future Software Engineer
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhamedrgb891&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamedrgb891&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedrgb891&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mhamedrgb891&theme=radical&row=2&column=3" alt="GitHub Trophies"/>
+</div>
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mhamedrgb891&theme=react-dark&area=true&hide_border=true)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI/Computer Vision Projects
+[![Smart Attendance](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=smart-attendance&theme=radical)](https://github.com/mhamedrgb891/smart-attendance)
+[![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=FaceRecognition&theme=radical)](https://github.com/mhamedrgb891/FaceRecognition)
+
+### 💻 Full-Stack Projects
+[![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=Notes-App&theme=radical)](https://github.com/mhamedrgb891/Notes-App)
+[![My Gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=My-Gallery&theme=radical)](https://github.com/mhamedrgb891/My-Gallery)
+
+---
+
+## 🔧 Technologies & Tools
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🧠 AI & Machine Learning
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🛠️ Frameworks & Tools
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### ☁️ Cloud & Databases
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhamedrgb891&theme=radical" alt="GitHub Profile Details"/>
+</p>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhamedrgb891&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhamedrgb891&theme=radical" width="45%"/>
+</div>
+
+---
+
+## 🎯 Currently Focusing On
+
+- 🔍 Deepening my knowledge in Computer Vision
+- ⚛️ Learning React.js for frontend development
+- 🤖 Exploring AI/ML applications in real-world problems
+- 🌐 Building full-stack applications
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ragab-681321364">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:m7mdrgb33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201151901418">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mhamedrgb891">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 My Contribution Graph
+![Snake animation](https://github.com/mhamedrgb891/mhamedrgb891/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=mhamedrgb891&color=blueviolet&style=flat-square)
+
+⭐ From [Mohamed Ragab](https://github.com/mhamedrgb891) | Future Software Engineer
