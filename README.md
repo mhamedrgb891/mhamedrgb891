@@ -1,100 +1,63 @@
-# Mohamed Ragab
+# Mohamed Ragab - GitHub Profile README
 
-🎓 Fourth-year student in Administrative Information Systems  
-💡 Passionate about IT, telecommunications, banking, and enterprise systems  
-🚀 Always learning and growing through hands-on projects and challenges  
-
----
+Hello! I'm Mohamed Ragab, a Computer Science student passionate about software development and AI technologies. Here's my GitHub profile with widgets to showcase my work and contributions.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhamedrgb891&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhamedrgb891&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedrgb891&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🔝 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhamedrgb891&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhamedrgb891&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 
----
+## 🏆 GitHub Trophies
 
-## 🧠 GitHub Metrics
+<img src="https://github-profile-trophy.vercel.app/?username=mhamedrgb891&theme=juicyfresh&no-bg=true" />
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/mhamedrgb891?template=classic&base.header=0&gists=1&lines=1&config.timezone=Africa%2FCairo" />
-</p>
+## 🔧 Featured Projects
 
----
+[![Smart Attendance](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=smart-attendance)](https://github.com/mhamedrgb891/smart-attendance)
+[![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=FaceRecognition)](https://github.com/mhamedrgb891/FaceRecognition)
+[![My Gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=My-Gallery)](https://github.com/mhamedrgb891/My-Gallery)
+[![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=Notes-App)](https://github.com/mhamedrgb891/Notes-App)
 
-## 🚀 Pinned Projects
+## 📈 Activity Graph
 
-<p align="center">
-  <a href="https://github.com/mhamedrgb891/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=project1&theme=dark" /></a>
-  <a href="https://github.com/mhamedrgb891/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=project2&theme=dark" /></a>
-</p>
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mhamedrgb891&theme=react-dark&hide_border=true&area=true)
 
-> **Note**: Replace `project1`, `project2` with your actual repository names.
+## 🐍 Snake Eating My Contributions
 
----
+![Snake animation](https://github.com/mhamedrgb891/mhamedrgb891/blob/output/github-contribution-grid-snake.svg)
 
-## 🐍 Contribution Snake
+## 🌐 Connect with Me
 
-![Snake animation](https://github.com/mhamedrgb891/mhamedrgb891/blob/output/github-contribution-snake.svg)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/mohamed-ragab-681321364)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:m7mdrgb33@gmail.com)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">](https://wa.me/201151901418)
 
----
+## 👀 Profile Views
 
-## 🌐 Contribution Graph
+<img src="https://komarev.com/ghpvc/?username=mhamedrgb891&color=blueviolet" alt="Profile Views" />
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=mhamedrgb891&theme=react-dark&hide_border=true&area=true)
+## 📌 Pinned Repositories
 
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhamedrgb891&theme=juicyfresh&no-bg=true" />
-</p>
-
----
-
-## 👥 GitHub Followers & Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/mhamedrgb891?color=236ad3&style=for-the-badge&logo=github&label=Follow" />
-  <img src="https://img.shields.io/github/stars/mhamedrgb891?label=Stars&style=for-the-badge" />
-</p>
-
----
-
-## 👀 Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhamedrgb891&color=brightgreen" alt="Visitors" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://github.com/mhamedrgb891" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mhamedrgb891-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<div>
+  <a href="https://github.com/mhamedrgb891/smart-attendance">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=smart-attendance&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-ragab-681321364" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Ragab-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://github.com/mhamedrgb891/FaceRecognition">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=FaceRecognition&theme=dark" />
   </a>
-  <a href="mailto:m7mdrgb33@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-m7mdrgb33@gmail.com-D44638?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="tel:+201151901418" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-01151901418-25D366?style=for-the-badge&logo=whatsapp" alt="Phone" />
-  </a>
-</p>
+</div>
+
+## 💻 Technologies & Tools
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+
+## 📚 Currently Learning
+
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?logo=scikitlearn&logoColor=white" alt="Machine Learning">
 
 ---
 
-_🕓 Last updated: June 8, 2025_
+⭐ From [Mohamed Ragab](https://github.com/mhamedrgb891) | Computer Science Student | Future Software Engineer
