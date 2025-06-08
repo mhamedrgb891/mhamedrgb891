@@ -28,13 +28,20 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI/Computer Vision Projects
-[![Smart Attendance](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=smart-attendance&theme=radical)](https://github.com/mhamedrgb891/smart-attendance)
-![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=FaceRecognition&theme=radical)](https://github.com/mhamedrgb891/FaceRecognition)
+### 💻 Full-Stack Development Projects
+Design and implementation of integrated web applications using the latest technologies
 
-### 💻 Full-Stack Projects
 [![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=Notes-App&theme=radical)](https://github.com/mhamedrgb891/Notes-App)
-[![My Gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=My-Gallery&theme=radical)
+A note management app with an interactive user interface
+
+[![My Gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=My-Gallery&theme=radical)](https://github.com/mhamedrgb891/My-Gallery)
+A platform for displaying artwork with an advanced classification system
+
+[![Quiz  App](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=Quiz-App&theme=radical)](https://github.com/mhamedrgb891/Quiz-App)
+An interactive quiz system with instant feedback.
+
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=Weather-App&theme=radical)](https://github.com/mhamedrgb891/Weather-App)
+A comprehensive app for monitoring real-time weather conditions.
 
 ---
 
