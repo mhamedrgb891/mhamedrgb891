@@ -1,3 +1,5 @@
+Energetic and detail-oriented Management Information Systems graduate with hands-on experience in IT technical support, hardware maintenance, and system troubleshooting. Strong foundation in configuring Windows systems, resolving user issues, and providing effective help desk support. Passionate about continuous growth in the IT field, particularly in technical support, networking, and enterprise systems. Proven ability to balance work and study, with a drive to contribute value in high-performance environments.
+
 
 # GitHub Readme Widgets
 This repository contain a collection of GitHub widgets that you can used to build your GitHub home page. Copy past the selected widget on your home page md file and change the parameters appropriately.
@@ -60,7 +62,7 @@ Show a visual changelog for a committer, or repo(s). Uses AI to interpret upload
 ```
 <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 ```
-Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can also be rearranged using url parameters. Find out more at https://github.com/PressJump/reimaginedreadme
+Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can also be rearranged using url parameters. Find out more at https://https://github.com/mhamedrgb891/PressJump/reimaginedreadme
 
 ---
 
@@ -74,11 +76,11 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
 
 ### List projects
 ```
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://https://github.com/mhamedrgb891/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://https://github.com/mhamedrgb891/madushadhanushka/simple-sqlite)
 ```
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://https://github.com/mhamedrgb891/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://https://github.com/mhamedrgb891/madushadhanushka/simple-sqlite)
 
 ```
 <table>
@@ -91,12 +93,12 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
+      <td><a href="https://https://github.com/mhamedrgb891/madushadhanushka/differ"><b>Differ</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
+      <td><a href="https://https://github.com/mhamedrgb891/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -113,12 +115,12 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
+      <td><a href="https://https://github.com/mhamedrgb891/madushadhanushka/differ"><b>Differ</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/madushadhanushka/simple-sqlite"><b>Simple SQLite</b></a></td>
+      <td><a href="https://https://github.com/mhamedrgb891/madushadhanushka/simple-sqlite"><b>Simple SQLite</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -138,7 +140,7 @@ Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can als
 ### Snake animation
 
 ```
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://https://github.com/mhamedrgb891/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 ```
 Use the following GitHub action yml definition:
 ```
@@ -168,18 +170,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://https://github.com/mhamedrgb891/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 ---
 
 ### GitHub repository contributors
 ```
-<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+<a href = "https://https://github.com/mhamedrgb891/madushadhanushka/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
 </a>
 ```
 
-<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+<a href = "https://https://github.com/mhamedrgb891/madushadhanushka/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
 </a>
 
@@ -224,7 +226,7 @@ jobs:
 
 ![star-history](https://api.lucabubi.me/chart?username=madushadhanushka&repository=github-readme&color=violet)
 
-Find out more at https://github.com/lucabubi/star-history
+Find out more at https://https://github.com/mhamedrgb891/lucabubi/star-history
 
 ---
 
@@ -259,13 +261,13 @@ Find out more at https://github.com/lucabubi/star-history
 
 ### Social media links
 ```
-<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.https://www.linkedin.com/in/mohamed-ragab-681321364/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 ```
-<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.https://www.linkedin.com/in/mohamed-ragab-681321364/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
@@ -316,9 +318,9 @@ Following is an example use of
 
 ### LeetCode stats
 ```
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://https://github.com/mhamedrgb891/madushadhanushka/github-readme)
 ```
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://https://github.com/mhamedrgb891/madushadhanushka/github-readme)
 
 ---
 
@@ -337,7 +339,7 @@ Following is an example use of
 
 [![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)](https://stackoverflow.com/users/3840208/dhanushka)
 
-More details: [https://github.com/omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
+More details: [https://https://github.com/mhamedrgb891/omidnikrah/github-readme-stackoverflow](https://https://github.com/mhamedrgb891/omidnikrah/github-readme-stackoverflow)
 
 ---
 
@@ -353,4 +355,4 @@ More details: [https://github.com/omidnikrah/github-readme-stackoverflow](https:
 
 ### Useful links
 
-[https://github.com/rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+[https://https://github.com/mhamedrgb891/rzashakeri/beautify-github-profile](https://https://github.com/mhamedrgb891/rzashakeri/beautify-github-profile)
