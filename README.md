@@ -1,64 +1,377 @@
-<h1 align="center">السلام عليكم، أنا محمد رجب 👋</h1>
-<h3 align="center">طالب مجتهد وطموح في طريقه ليصبح مهندس برمجيات بإذن الله</h3>
+<h1 align="center">Hi , I'm Mohamed Ragab</h1>
+<h3 align="center">A passionate learner and future software engineer</h3>
+
+-  I’m currently working on [CS50x 2024](https://github.com/mhamedrgb891/CS50x-2024)
+
+-  I’m currently learninghttps://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white **Web Development, C, Python, and more**
+
+-  How to reach me: **youremail@example.com**
+
+-  Ask me about **C, Python, HTML/CSS, Git/GitHub**
+
+- Fun fact: I love debugging as much as I love coffee 
+
+###  Technologies & Tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+
+# GitHub Readme Widgets
+This repository contain a collection of GitHub widgets that you can used to build your GitHub home page. Copy past the selected widget on your home page md file and change the parameters appropriately.
+
+**If you have any interresting widgets? Then create a pull request and let know other programmers as well.**
+
+>
+Happy code!
+
+### GitHub stats
+```
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+```
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+```
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+```
+
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ---
 
-- 🔭 أعمل حاليًا على <a href="https://github.com/mhamedrgb891/CS50x-2024">مسار CS50x 2024</a> من Harvard
-- 🌱 أتعلم حاليًا: **C، Python، HTML، CSS، JavaScript**
-- 💬 اسألني عن: **البرمجة بلغة C، تطوير الويب، Git/GitHub**
-- 📫 تواصل معي: **[mhamedrgb891@gmail.com](mailto:mhamedrgb891@gmail.com)**
-- ☕ هوايتي: أحب التعلُّم، وأجد متعة في التحديات البرمجية
+### GitHub top languages
+```
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+```
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ---
 
-### 🛠️ التقنيات والأدوات اللي بستخدمها:
-<p align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+### GitClear Free GitHub Profile Velocity Widget
+```
+<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
+```
+<a href='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9' target='_blank'><img src="https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png" alt="Facebook React velocity past 12 months" /></a>
+
+Show repo velocity over a configurable time range. [Sign up for perma-free GitHub Profile widget & choose repos to show](https://www.gitclear.com/github_profile_dynamic_readme_free) or [3 min video walkthrough for GitHub Sponsor devs](https://www.youtube.com/watch?v=r6ELGM4PcuA).
+
+If you have a repo with 1,000 stars, contact hello@gitclear.com for personalized setup help. 
 
 ---
 
-### 📊 إحصائيات GitHub الخاصة بي:
+### GitClear Visual Changelog Widget
+```
+<img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' />
+```
+<a href='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhamedrgb891&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+Show a visual changelog for a committer, or repo(s). Uses AI to interpret uploaded screenshots with recent work ✨  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedrgb891&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[Signup for a free GitHub Profile widget (+ pick repos)](https://www.gitclear.com/github_profile_dynamic_readme_free)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhamedrgb891&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+[Optional in-depth explainer on how screenshots are mapped to work](https://www.gitclear.com/blog/how_we_built_an_automatic_changelog_generator_for_github_open_source) or [video showing how visual changelogs work](https://www.youtube.com/watch?v=xKs0vknhJis),
+
+---
+### GitHub All Stats
+<img src="https://myreadme.vercel.app/api/embed/pressjump?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+```
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+```
+Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can also be rearranged using url parameters. Find out more at https://github.com/PressJump/reimaginedreadme
 
 ---
 
-### 📬 تواصل معي
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ragab-681321364" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201151901418" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2317BF63.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:mhamedrgb891@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Longest streak stats
+```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 
 ---
 
-### 💡 نبذة عنّي:
-> أؤمن بأن البرمجة هي أداة للتغيير، وأن كل سطر كود يُكتب بإتقان يمكن أن يُحدث فرقًا في حياة الناس. أسعى دومًا للتطور والتعلم من الأخطاء، وأسأل الله التوفيق دائمًا 🙏
+### List projects
+```
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+```
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+
+```
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+```
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/simple-sqlite"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-<p align="center">
-  <b>⭐ إذا أعجبك المحتوى لا تنسَ تتابعني وتعمل ⭐ على المشاريع اللي عجبتك</b>
-</p>
+### GitHub contribution graph
+```
+![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true)
+```
+![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### Snake animation
+
+```
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+```
+Use the following GitHub action yml definition:
+```
+name: Contribution snake
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update snake grid
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: madushadhanushka
+          svg_out_path: dist/github-contribution-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
+---
+
+### GitHub repository contributors
+```
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+</a>
+```
+
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+</a>
+
+---
+
+### GitHub trophy
+```
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+```
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+
+---
+
+### GitHub followers
+```
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
+```
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
+
+```
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+```
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
+```
+<img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
+```
+<img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
+
+---
+
+### Total stars
+```
+<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
+```
+<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
+
+### Dark themed star history graph
+```
+![star-history](https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR)
+```
+
+![star-history](https://api.lucabubi.me/chart?username=madushadhanushka&repository=github-readme&color=violet)
+
+Find out more at https://github.com/lucabubi/star-history
+
+---
+
+### Twitter followers
+```
+<img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/dhanushkadev?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+```
+<img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/dhanushkadev?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+
+```
+<img src="https://img.shields.io/twitter/follow/dhanushkadev?logo=twitter&style=for-the-badge" alt="dhanushkadev" />
+```
+<img src="https://img.shields.io/twitter/follow/dhanushkadev?logo=twitter&style=for-the-badge" alt="dhanushkadev" />
+
+---
+
+### Generate random jokes
+```
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+```
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+---
+
+### Spotify playing
+```
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+```
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+---
+
+### Social media links
+```
+<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+```
+<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+---
+
+### Profile view count
+```
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+```
+<img src="https://widgetbite.com/stats/1ae3e3ba-cbeb-4ec8-9884-7e3bdc1041a9" alt="watching_count" />
+
+```
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+```
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+
+```
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+```
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+
+```
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+```
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+
+```
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+```
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+
+---
+
+### Using custom labels
+You can use shield.io to generate custom labels.
+```
+<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" />
+```
+Following is an example use of 
+```
+<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+```
+<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+
+---
+
+### LeetCode stats
+```
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+```
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+
+---
+
+### Codewar stats
+```
+[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
+```
+[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
+
+---
+
+### Stackoverflow stats
+```
+[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)](https://stackoverflow.com/users/3840208/dhanushka)
+```
+
+[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)](https://stackoverflow.com/users/3840208/dhanushka)
+
+More details: [https://github.com/omidnikrah/github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
+
+---
+
+### Medium blogs
+```
+[![Dhanushka Medium](https://github-readme-medium.vercel.app/?username=madushandhanushka)](https://medium.com/@madushandhanushka)
+```
+
+[![Dhanushka Medium](https://github-readme-medium.vercel.app/?username=madushandhanushka)](https://medium.com/@madushandhanushka)
+
+---
+
+
+### Useful links
+
+[https://github.com/rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
