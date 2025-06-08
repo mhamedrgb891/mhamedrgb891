@@ -107,10 +107,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhamedrgb891&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedrgb891&theme=dark" />
+  <a href="https://open.spotify.com/user/…">
+    <img src="https://spotify-now-playing-api.vercel.app/api/now-playing?user=mhamedrgb891" alt="Now Playing" />
+  </a>
 </p>
-
 ---
 
 ## 👀 Profile Views
