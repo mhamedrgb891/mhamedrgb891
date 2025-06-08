@@ -106,13 +106,39 @@
 
 ---
 
-## 🚀 Mini Project Ideas
+<!-- لوحة المسيرة البرمجية التفاعلية لمحمد -->
+<div align="center">
+  
+# 🌟 مسيرتي البرمجية التفاعلية
 
-- **Quiz Game** – Interactive Q&A with scoring and timer.
-- **Weather App** – Displays live weather + emojis.
-- **Countdown Clock** – Stylish timer with visual feedback.
-- **Memory Game** – Flip cards and match pairs.
-- **Magic 8‑Ball** – Get randomized answers to any question.
+لوحة تطور تفاعلية تروي قصتي مع البرمجة خطوة بخطوة
+
+[![GitHub followers](https://img.shields.io/github/followers/mhamedrgb891?style=social)](https://github.com/mhamedrgb891)
+[![Stars](https://img.shields.io/github/stars/mhamedrgb891?label=Project%20Stars&style=social)](https://github.com/mhamedrgb891)
+
+</div>
+
+## 📊 خريطة التطور البرمجي
+
+```mermaid
+gantt
+    title مسيرتي البرمجية
+    dateFormat  YYYY-MM-DD
+    section البداية
+    تعلم الأساسيات           :2020-01-01, 180d
+    أول مشروع                :2020-07-01, 90d
+    
+    section التطور
+    تطوير تطبيقات ويب        :2021-01-01, 270d
+    المشاركة في هاكاثون      :2021-07-01, 30d
+    
+    section الاحتراف
+    تطوير مشاريع معقدة       :2022-01-01, 360d
+    أول وظيفة تقنية          :2022-06-01, 30d
+    
+    section التميز
+    مشاريع مفتوحة المصدر     :2023-01-01, 365d
+    تطوير مكتبة خاصة        :2023-06-01, 180d
   
 ---
 
