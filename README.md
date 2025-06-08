@@ -106,12 +106,81 @@
 
 ---
 
-<p align="center">
-  <a href="https://open.spotify.com/user/…">
-    <img src="https://spotify-now-playing-api.vercel.app/api/now-playing?user=mhamedrgb891" alt="Now Playing" />
-  </a>
-</p>
----
+import pygame
+import random
+
+# تهيئة اللعبة
+pygame.init()
+screen = pygame.display.set_mode((800, 600))
+pygame.display.set_caption("Space Star Collector")
+
+# ألوان
+BLACK = (0, 0, 0)
+YELLOW = (255, 255, 0)
+RED = (255, 0, 0)
+
+# المركبة
+player_img = pygame.Surface((50, 30))
+player_img.fill((0, 255, 255)))
+player_x = 370
+player_y = 480
+
+# النجوم
+stars = []
+for i in range(5):
+    stars.append({
+        'x': random.randint(0, 736),
+        'y': random.randint(50, 150),
+        'speed': random.uniform(0.5, 2)
+    })
+
+# اللعبة الرئيسية
+running = True
+score = 0
+clock = pygame.time.Clock()
+
+while running:
+    screen.fill(BLACK)
+    
+    # التحكم
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+            
+    keys = pygame.key.get_pressed()
+    if keys[pygame.K_LEFT] and player_x > 0:
+        player_x -= 5
+    if keys[pygame.K_RIGHT] and player_x < 750:
+        player_x += 5
+        
+    # رسم المركبة
+    screen.blit(player_img, (player_x, player_y))
+    
+    # تحريك النجوم وتصادم
+    for star in stars[:]:
+        star['y'] += star['speed']
+        pygame.draw.circle(screen, YELLOW, (star['x'], star['y']), 10)
+        
+        # الكشف عن التصادم
+        if (player_x < star['x'] < player_x + 50) and (player_y < star['y'] < player_y + 30):
+            stars.remove(star)
+            score += 10
+            # إضافة نجم جديد
+            stars.append({
+                'x': random.randint(0, 736),
+                'y': random.randint(-100, -50),
+                'speed': random.uniform(0.5, 2)
+            })
+    
+    # عرض النقاط
+    font = pygame.font.SysFont(None, 36)
+    score_text = font.render(f"Score: {score}", True, (255, 255, 255))
+    screen.blit(score_text, (10, 10))
+    
+    pygame.display.update()
+    clock.tick(60)
+
+pygame.quit()
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=mhamedrgb891&color=blueviolet&style=flat-square)
