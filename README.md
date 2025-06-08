@@ -106,9 +106,14 @@
 
 ---
 
-## 🐍 My Contribution Graph
-![Snake animation](https://github.com/mhamedrgb891/mhamedrgb891/blob/output/github-contribution-grid-snake.svg)
+## 🚀 Mini Project Ideas
 
+- **Quiz Game** – Interactive Q&A with scoring and timer.
+- **Weather App** – Displays live weather + emojis.
+- **Countdown Clock** – Stylish timer with visual feedback.
+- **Memory Game** – Flip cards and match pairs.
+- **Magic 8‑Ball** – Get randomized answers to any question.
+  
 ---
 
 ## 👀 Profile Views
