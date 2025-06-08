@@ -30,11 +30,12 @@
 
 ### 🤖 AI/Computer Vision Projects
 [![Smart Attendance](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=smart-attendance&theme=radical)](https://github.com/mhamedrgb891/smart-attendance)
-[![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=FaceRecognition&theme=radical)](https://github.com/mhamedrgb891/FaceRecognition)
+![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=FaceRecognition&theme=radical)](https://github.com/mhamedrgb891/FaceRecognition)
 
 ### 💻 Full-Stack Projects
 [![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=Notes-App&theme=radical)](https://github.com/mhamedrgb891/Notes-App)
 [![My Gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhamedrgb891&repo=My-Gallery&theme=radical)
+
 ---
 
 ## 🔧 Skills & Interests
