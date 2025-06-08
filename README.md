@@ -106,8 +106,21 @@
 
 ---
 
-## 🐍 My Contribution Graph
-![Snake animation](https://github.com/mhamedrgb891/mhamedrgb891/blob/output/github-contribution-grid-snake.svg)
+## 🚀 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,py,django,mongodb,postgres,git,docker,aws&perline=6" />
+</p>
+
+## 📊 Coding Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhamedrgb891&show_icons=true&theme=vision-friendly-dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedrgb891&theme=dark" width="48%" />
+</div>
+
+## 👨‍💻 Daily Coding
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhamedrgb891&theme=github-dark&hide_border=true" />
+</p
 
 ---
 
