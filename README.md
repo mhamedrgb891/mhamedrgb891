@@ -106,9 +106,10 @@
 
 ---
 
+## 🐍 My Contribution Graph
+![Snake animation](https://github.com/mhamedrgb891/mhamedrgb891/blob/output/github-contribution-grid-snake.svg)
 
-
-pygame.quit()
+---
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=mhamedrgb891&color=blueviolet&style=flat-square)
